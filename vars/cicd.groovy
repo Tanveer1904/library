@@ -1,6 +1,6 @@
 def contDow(repo)
 {
-   git "https://github.com/Tanveer1904/${repo}.git"
+   git "https://github.com/intelliqittrainings/${repo}.git"
 }
 def contB()
 {
